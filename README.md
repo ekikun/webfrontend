@@ -1,16 +1,21 @@
 # webfrontend
+KIKI商城前端
+基于Vue2.0开发 基本使用elment-ui组件搭建页面
+感谢hyh大佬的帮助
 
-## Project setup
+## Node.js命令
+
+### 项目构建
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 开发调试
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 开发发布
 ```
 npm run build
 ```
