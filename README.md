@@ -1,7 +1,6 @@
 # webfrontend
 KIKI商城前端
 基于Vue2.0开发 基本使用elment-ui组件搭建页面
-感谢hyh大佬的帮助
 
 ## Node.js命令
 
